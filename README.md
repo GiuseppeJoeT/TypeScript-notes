@@ -28,4 +28,4 @@ This material cover the following contents:
 ## References ##
 
 - [Official Typescript documentation](www.typescriptlang.org) by [Microsoft](https://www.microsoft.com/)
-- [TypeScript Deep Dive](https://www.gitbook.com/book/basarat/typescript/details) by [Basarat Ali Syed](https://twitter.com/stoyanstefanov)
+- [TypeScript Deep Dive](https://www.gitbook.com/book/basarat/typescript/details) by [Basarat Ali Syed](https://twitter.com/basarat)
