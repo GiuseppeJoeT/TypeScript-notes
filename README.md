@@ -15,7 +15,7 @@ This material cover the following contents:
 
 **TypeScript Basics**
 
-- [Basic types, Variable declarations](...)
+- [Basic types, Variable declarations](https://github.com/giuseppeTiberi/TypeScript-notes/tree/master/BasicTypes-VariableDeclarations)
 - [Interfaces, Classes](...)
 - [Functions](...)
 

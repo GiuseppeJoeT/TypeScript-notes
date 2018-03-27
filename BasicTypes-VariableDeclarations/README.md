@@ -32,6 +32,8 @@ let color: string = "blue";
 color = 'green';
 ```
 
+You can also use _template strings_, which can span multiple lines and have embedded  expressions. These strings are surrounded by the backtick/backquote (`) character, and embedded expressions are of the form ```javascript ${ expr } ```. 
+
 ### Array
 
 ### Tuple
