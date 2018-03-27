@@ -1,5 +1,3 @@
-// greeter: persona che da il benvenuto.
-
 function greeter(person: string) {
     return "Hello, " + person;
 }
